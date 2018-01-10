@@ -1,1 +1,1 @@
-# sp18.android.guweather
+# GUWeather
